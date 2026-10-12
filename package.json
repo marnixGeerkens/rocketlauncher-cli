@@ -1,0 +1,12 @@
+{
+  "name": "rocketlauncher",
+  "version": "1.0.0",
+  "description": "Install free Claude Code skills, agents, commands, hooks, settings and MCP servers from RocketLauncher.",
+  "type": "module",
+  "bin": { "rocketlauncher": "bin/rocketlauncher.mjs" },
+  "files": ["bin"],
+  "engines": { "node": ">=18" },
+  "homepage": "https://rocketlauncher.ai/claude-code",
+  "repository": "github:marnixGeerkens/rocketlauncher-cli",
+  "license": "MIT"
+}
